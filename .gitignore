@@ -1,0 +1,18 @@
+# Flutter/Dart-specific
+.dart_tool/
+.idea/
+.vscode/
+build/
+ios/Flutter/flutter_export_environment.sh
+android/local.properties
+
+# IDE settings
+*.iml
+
+# Package and dependency locks
+pubspec.lock
+
+# Generated files
+*.log
+*.lock
+*.tmp
