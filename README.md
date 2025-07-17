@@ -65,3 +65,43 @@ Coming soon: Full UI expansion, multi-step user journey, loading states, and sub
 ---
 
 Let me know if you want to add visual previews, badges, or a contributor section. You're not just writing a README — you're writing history 💻✨📘
+
+---
+# Send Money App – v0.1 🚀
+
+> “I build with code, dream with clarity, and rise with purpose.” – Leonard Phokane
+
+## 🌍 Overview
+Send Money App is a cross-platform fintech tool designed to simplify digital transactions with elegance, speed, and cultural resonance. Built using Flutter, the app is engineered for Android, iOS, Web, and Windows with a focus on user-centric design and ethical development.
+
+## 🔥 v0.1 – Project Genesis
+This release marks the foundational setup of the app. It includes:
+- ✅ Multi-platform scaffolding (Android, iOS, Web, Windows)
+- 🎨 Afro-futurist branding assets integrated into the UI
+- 🧼 Clean repo hygiene via `.gitignore` and `.gitattributes`
+- ⚙️ Configs and assets to support animations and transaction workflows
+
+📎 [View Release Page](https://github.com/leonardphokane/send_money_app/releases/tag/v0.1)
+
+## 🛠️ Tech Stack
+- Flutter + Dart
+- Git + GitHub
+- Canva + Padlet for visual storytelling
+- Ethical frameworks via Fairness Inspector (coming soon)
+
+## 📈 Upcoming Features (v0.2 Roadmap)
+| Feature                   | Purpose                                          | Status      |
+|--------------------------|--------------------------------------------------|-------------|
+| SendButton Logic Flow    | Improve UX and transaction clarity               | In Progress |
+| AnimatedSuccess Widget   | Celebrate transactions with visual flair         | Planned     |
+| ZuluTech Brand Expansion | Deepen storytelling and design continuity        | Conceptual  |
+| Fairness Audit Integration | Add equity checks through Fairness Inspector | Researching |
+
+## 🤝 Collaborate With Us
+Want to contribute or fork the vision? Join the movement via PLPCommunity or connect on LinkedIn.
+
+## 🧠 Inspired By
+ZuluTech — a commitment to building tech systems that honor cultural identity, integrity, and impact.
+
+---
+
