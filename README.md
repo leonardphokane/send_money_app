@@ -1,4 +1,16 @@
 # 💼 Send Money App — Flutter Fintech Build (Week 7)
+# Send Money App – v0.1 🚀
+
+![Flutter](https://img.shields.io/badge/flutter-ready-blue.svg)
+![Cross-Platform](https://img.shields.io/badge/platform-multi--platform-green.svg)
+![PLPCommunity](https://img.shields.io/badge/community-PLPCommunity-purple.svg)
+![ZuluTech](https://img.shields.io/badge/branding-ZuluTech-red.svg)
+![Ethical Tech](https://img.shields.io/badge/focus-ethical--tech-critical.svg)
+![PLPCommunity Logo](./assets/plp-logo.png)
+
+
+
+
 
 > "Transactions don’t just move money — they move stories." — Leonard Phokane
 
@@ -46,6 +58,7 @@ lib/ ├── widgets/ │ ├── send_button.dart │ └── dropdown_bu
 ---
 
 ## 👤 About the Developer
+<img src="./assets/leonard-profile.png" alt="Leonard Phokane" width="140"/>
 
 Built by **Leonard Phokane** — a storyteller who codes with soul and structures with legacy.
 
