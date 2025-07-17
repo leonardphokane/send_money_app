@@ -51,6 +51,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - assets/leonard-profile.png
+    - assets/plp-logo.png
+    - assets/animated_success.png
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
